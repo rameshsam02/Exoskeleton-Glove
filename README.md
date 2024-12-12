@@ -1,3 +1,3 @@
 **Exoskeleton Glove for Hand Rehabilitation**
 
-<img src="/Glove.gif" width="300" height="250"/>
+<img src="/Glove.gif" width="400" height="250"/>
