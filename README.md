@@ -5,6 +5,7 @@
 This project presents the design and implementation of an exoskeleton glove for hand rehabilitation. The device leverages principles of motor learning to promote recovery through repetitive, error-free movements, exploiting neuroplasticity for motor recovery.
 
 <img src="/Glove.gif" width="400" height="250"/>
+
 ## Features
 
 - Lightweight and ergonomic design
