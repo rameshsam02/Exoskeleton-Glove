@@ -76,4 +76,3 @@ The device is controlled by an Arduino-based algorithm that manages servo motor 
 - Conduct comprehensive user testing
 - Incorporate feedback for design refinement
 
-**Institution:** Northeastern University, Boston, USA
